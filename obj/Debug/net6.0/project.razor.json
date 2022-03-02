@@ -16303,8 +16303,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Collaboration.cshtml",
+      "TargetPath": "Pages\\Collaboration.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Company.cshtml",
+      "TargetPath": "Pages\\Company.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16320,6 +16330,16 @@
     {
       "FilePath": "/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Products.cshtml",
+      "TargetPath": "Pages\\Products.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Profile.cshtml",
+      "TargetPath": "Pages\\Profile.cshtml",
       "FileKind": "mvc"
     },
     {

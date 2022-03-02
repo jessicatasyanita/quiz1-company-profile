@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/jessicatasyanita/web/pbkk/quiz1
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Collaboration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29sbGFib3JhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Company.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFueS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +33,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Shared/_ValidationScriptsPartial.cshtml]

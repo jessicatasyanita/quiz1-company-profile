@@ -1,6 +1,12 @@
 module.exports = {
-  purge: [],
-  darkMode: false, // or 'media' or 'class'
+  purge: {
+    enabled: true,
+    content: [ 
+        './Pages/**/*.cshtml',
+        './Views/**/*.chstml'
+    ]
+  },
+  darkMode: true, // or 'media' or 'class'
   theme: {
     extend: {},
   },
