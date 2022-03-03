@@ -16343,11 +16343,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/jessicatasyanita/web/pbkk/quiz1/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/jessicatasyanita/web/pbkk/quiz1/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
