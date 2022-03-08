@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RUhJdd0BYgo25GW3iQ6ZI2MIvgs9Lb3OFeWn8qzwzBo=",
+  "Hash": "428X3fjzn29UmGKEjroZXVU3n6zXL/XLEhcT05EsTDc=",
   "Source": "quiz1",
   "BasePath": "_content/quiz1",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/jessicatasyanita/web/pbkk/quiz1/wwwroot/img/iPhone X.png",
+      "SourceId": "quiz1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jessicatasyanita/web/pbkk/quiz1/wwwroot/",
+      "BasePath": "_content/quiz1",
+      "RelativePath": "img/iPhone X.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/iPhone X.png"
     },
     {
       "Identity": "/Users/jessicatasyanita/web/pbkk/quiz1/wwwroot/img/logo-transparent.png",
