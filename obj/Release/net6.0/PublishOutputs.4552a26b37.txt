@@ -1,0 +1,9 @@
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/quiz1
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/appsettings.Development.json
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/appsettings.json
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/package-lock.json
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/package.json
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/quiz1.dll
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/quiz1.deps.json
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/quiz1.runtimeconfig.json
+/Users/jessicatasyanita/web/pbkk/quiz1/publish/quiz1.pdb

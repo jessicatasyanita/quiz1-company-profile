@@ -26,3 +26,10 @@
 /Users/jessicatasyanita/web/pbkk/quiz1/obj/Debug/net6.0/quiz1.pdb
 /Users/jessicatasyanita/web/pbkk/quiz1/obj/Debug/net6.0/quiz1.genruntimeconfig.cache
 /Users/jessicatasyanita/web/pbkk/quiz1/obj/Debug/net6.0/ref/quiz1.dll
+/Users/jessicatasyanita/web/pbkk/quiz1/bin/Debug/net6.0/publish/web.config
+/Users/jessicatasyanita/web/pbkk/quiz1/bin/Debug/net6.0/publish/appsettings.Development.json
+/Users/jessicatasyanita/web/pbkk/quiz1/bin/Debug/net6.0/publish/appsettings.json
+/Users/jessicatasyanita/web/pbkk/quiz1/bin/Debug/net6.0/publish/package-lock.json
+/Users/jessicatasyanita/web/pbkk/quiz1/bin/Debug/net6.0/publish/package.json
+/Users/jessicatasyanita/web/pbkk/quiz1/bin/Debug/net6.0/publish/quiz1.deps.json
+/Users/jessicatasyanita/web/pbkk/quiz1/bin/Debug/net6.0/publish/quiz1.runtimeconfig.json

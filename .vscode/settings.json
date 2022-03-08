@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d6667e1a-826f-45a1-8008-7553b82d3d69/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/Refillnow",
+    "appService.deploySubpath": "publish"
+}
